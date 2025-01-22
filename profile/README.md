@@ -10,13 +10,12 @@
 - **Creatures** : Patis, Paxime & Penzo
 - **Crédit** : Pabderrazak, Pulien & Pulian
 - **Club** : Pliam & Pervan
-- **Profil** : Pathan, Poé, Pathilde, Phierno & Pitalys
+- **Profil**, **Manche** : Pathan, Poé, Pathilde, Phierno & Pitalys
 - **Notifications** : Paptiste, Phéo & Pamille
 - **Reporting** : Pugo, Paurélien & Pohann
 - **Authentification** : Pathieu, Parc & Pouis
 - **Matches** : Pantho & Palexis
 - **Statistiques** : Pathéo, Path & Pustine
-- **Manches** : ???
 
 ## Stack Technique :
 - Typescript

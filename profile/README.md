@@ -5,17 +5,17 @@
 - **Specs :** [Document GDoc](https://docs.google.com/document/d/1SScKl99Hbga97bIhuhWm9G0HYfROkrJAN5CziEvS3no/edit?usp=sharing)
 
 ## Liste des services :
-- **Messagerie** : Pucie & Peloi
-- **Store** : Papacôme, Picolas & Parina
-- **Creatures** : Patis, Paxime & Penzo
-- **Crédit** : Pabderrazak, Pulien & Pulian
-- **Club** : Pliam & Pervan
-- **Profil**, **Manche** : Pathan, Poé, Pathilde, Phierno & Pitalys
-- **Notifications** : Paptiste, Phéo & Pamille
-- **Reporting** : Pugo, Paurélien & Pohann
-- **Authentification** : Pathieu, Parc & Pouis
-- **Matches** : Pantho & Palexis
-- **Statistiques** : Pathéo, Path & Pustine
+- **Messagerie** : Lucie & Eloi
+- **Store** : Pacôme, Nicolas & Marina
+- **Creatures** : Matis, Maxime & Enzo
+- **Crédit** : Abderrazak, Julien & Julian
+- **Club** : Liam & Ervan
+- **Profil**, **Manche** : Nathan, Noé, Mathilde, Thierno & Vitalys
+- **Notifications** : Baptiste, Théo & Camille
+- **Reporting** : Hugo, Aurélien & Yohann
+- **Authentification** : Mathieu, Marc & Louis
+- **Matches** : Anthony & Alexis
+- **Statistiques** : Mathéo, Nathaniel & Justine
 
 ## Stack Technique :
 - Typescript
